@@ -31,6 +31,7 @@
 
 ## Books
 
+- [AI for Everyday IT](https://www.manning.com/books/ai-for-everyday-it) - Learn how to automate dozens of your daily IT tasks with generative AI.
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/) - Deep work is the ability to focus without distraction on a cognitively demanding task.
 - [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page) - A very simple and efficient time-management method.
 - [The 5 Choices](https://www.simonandschuster.com/books/The-5-Choices/Kory-Kogon/9781476711829) - An all around productivity methodology dealing with prioritization, scheduling, technology and energy management.
